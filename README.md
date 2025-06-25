@@ -1,4 +1,4 @@
-# About Me:
+# 💫 About Me:
 Hi! I'm Chirag Sehgal, a Computer Science undergrad at IIIT-Delhi with a passion for machine learning, deep learning, and complex-valued neural networks. I love building systems that blend theoretical rigor with practical efficiency—whether that's real-time IoT feedback tools, ML libraries, or custom OS kernels.
 
 
